@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpeg" alt="holbertonschool-system_engineering-devops Banner">
+  <img src="./assets/banner.jpeg" alt="holbertonschool-system_engineering-devops Banner" height="500">
 </p>
 
 # holbertonschool-system_engineering-devops
